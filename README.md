@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
